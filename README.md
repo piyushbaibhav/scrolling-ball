@@ -53,4 +53,9 @@ This animation project was created using the GreenSock Animation Platform (GSAP)
 
 ![Blender](./Screenshot%202023-10-29%20034456.png)
 
+
+# Issue
+
+This website experiences slow loading times due to the large number of images that load as you scroll. The site's functionality involves replacing the current image with the next one as you scroll, and there are a total of 180 images. If anyone has a solution to address this issue, please feel free to share it.
+
 Enjoy exploring and customizing this animation project to suit your needs!
